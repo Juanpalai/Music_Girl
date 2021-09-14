@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Spike
+  - Ballet
+  - BossBallet
+  - Floor
+  - Music
+  - Ballet2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - bullet
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1301190899
+    locked: 0
+  - name: cube
+    uniqueID: 2169579089
+    locked: 0
+  - name: player
+    uniqueID: 3296558431
+    locked: 0
+  - name: gareki
+    uniqueID: 420943821
+    locked: 0
+  - name: gareki2
+    uniqueID: 4169271763
+    locked: 0

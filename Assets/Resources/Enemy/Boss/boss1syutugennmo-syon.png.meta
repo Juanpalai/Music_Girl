@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 9a09dc3651dd220439c1f62666e5edd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6997141904011259047
+    second: boss1syutugennmo-syon_0
+  - first:
+      213: -6600103831943584884
+    second: boss1syutugennmo-syon_1
+  - first:
+      213: 547556918393732132
+    second: boss1syutugennmo-syon_2
+  - first:
+      213: -482868612337492436
+    second: boss1syutugennmo-syon_3
+  - first:
+      213: 8883283734421296421
+    second: boss1syutugennmo-syon_4
+  - first:
+      213: 9187611206176477607
+    second: boss1syutugennmo-syon_5
+  - first:
+      213: -3860747588689395237
+    second: boss1syutugennmo-syon_6
+  - first:
+      213: 4122166711593412607
+    second: boss1syutugennmo-syon_7
+  - first:
+      213: -2504398670860600391
+    second: boss1syutugennmo-syon_8
+  - first:
+      213: 3598910254068175693
+    second: boss1syutugennmo-syon_9
+  - first:
+      213: 3951299028827795953
+    second: boss1syutugennmo-syon_10
+  - first:
+      213: -834458833465360059
+    second: boss1syutugennmo-syon_11
+  - first:
+      213: -3158071065758421256
+    second: boss1syutugennmo-syon_12
+  - first:
+      213: 3676064518057170499
+    second: boss1syutugennmo-syon_13
+  - first:
+      213: 7177300597479707131
+    second: boss1syutugennmo-syon_14
+  - first:
+      213: -8055816218268650448
+    second: boss1syutugennmo-syon_15
+  - first:
+      213: 1768938749878679411
+    second: boss1syutugennmo-syon_16
+  - first:
+      213: 793809788049196683
+    second: boss1syutugennmo-syon_17
+  - first:
+      213: 1352493858178988875
+    second: boss1syutugennmo-syon_18
+  - first:
+      213: -5924221299209024918
+    second: boss1syutugennmo-syon_19
+  - first:
+      213: -9106426380412976230
+    second: boss1syutugennmo-syon_20
+  - first:
+      213: -6068455021441675625
+    second: boss1syutugennmo-syon_21
+  - first:
+      213: 4512041311117104645
+    second: boss1syutugennmo-syon_22
+  - first:
+      213: 6622328888259914174
+    second: boss1syutugennmo-syon_23
+  - first:
+      213: 7238668158240199671
+    second: boss1syutugennmo-syon_24
+  - first:
+      213: -1200088782723554708
+    second: boss1syutugennmo-syon_25
+  - first:
+      213: -8541404876242665669
+    second: boss1syutugennmo-syon_26
+  - first:
+      213: 2582191070059390911
+    second: boss1syutugennmo-syon_27
+  - first:
+      213: 1231100461118562706
+    second: boss1syutugennmo-syon_28
+  - first:
+      213: 5224622840207770851
+    second: boss1syutugennmo-syon_29
+  - first:
+      213: -4935299958867898955
+    second: boss1syutugennmo-syon_30
+  - first:
+      213: -2919328743778358973
+    second: boss1syutugennmo-syon_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 6
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_0
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 814
+        width: 204
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9539860c28825ee90800000000000000
+      internalID: -6997141904011259047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_1
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 814
+        width: 204
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83ee40a888b764a0800000000000000
+      internalID: -6600103831943584884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_2
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 814
+        width: 204
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c7a2fbd10599700800000000000000
+      internalID: 547556918393732132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_3
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 814
+        width: 204
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e10703e818c49f0800000000000000
+      internalID: -482868612337492436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_4
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 814
+        width: 205
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525df25ad73c74b70800000000000000
+      internalID: 8883283734421296421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_5
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 814
+        width: 203
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a11c86c6b3f08f70800000000000000
+      internalID: 9187611206176477607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_6
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 814
+        width: 203
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd109b0f58edb6ac0800000000000000
+      internalID: -3860747588689395237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_7
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 814
+        width: 205
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff72775b8c0e43930800000000000000
+      internalID: 4122166711593412607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_8
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 814
+        width: 204
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbb46f7da69e3dd0800000000000000
+      internalID: -2504398670860600391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_9
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 814
+        width: 204
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d439e38eec5e1f130800000000000000
+      internalID: 3598910254068175693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 493
+        width: 205
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f170a62885d5d630800000000000000
+      internalID: 3951299028827795953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_11
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 493
+        width: 204
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5414c93bc186b64f0800000000000000
+      internalID: -834458833465360059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_12
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 493
+        width: 203
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fea70e09174c24d0800000000000000
+      internalID: -3158071065758421256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_13
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 493
+        width: 203
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346173ad331040330800000000000000
+      internalID: 3676064518057170499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_14
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 493
+        width: 204
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf11afecdd4ea9360800000000000000
+      internalID: 7177300597479707131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_15
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 493
+        width: 203
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034344eb4ddf33090800000000000000
+      internalID: -8055816218268650448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_16
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 493
+        width: 204
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37731f7bb688c8810800000000000000
+      internalID: 1768938749878679411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_17
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 493
+        width: 206
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8686e3ebcd240b00800000000000000
+      internalID: 793809788049196683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_18
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 493
+        width: 204
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bf7a98ff505c210800000000000000
+      internalID: 1352493858178988875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_19
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 493
+        width: 204
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ac7d1cd10f8cda0800000000000000
+      internalID: -5924221299209024918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 141
+        width: 205
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a930d3674797f9180800000000000000
+      internalID: -9106426380412976230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 141
+        width: 204
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e888f5f4488cba0800000000000000
+      internalID: -6068455021441675625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_22
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 141
+        width: 203
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506d509aaadfd9e30800000000000000
+      internalID: 4512041311117104645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_23
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 141
+        width: 205
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb92a8a890d37eb50800000000000000
+      internalID: 6622328888259914174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_24
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 141
+        width: 204
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f396da765ae47460800000000000000
+      internalID: 7238668158240199671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_25
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 141
+        width: 203
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62e4d64c9d685fe0800000000000000
+      internalID: -1200088782723554708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_26
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 141
+        width: 205
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f34c4f485d67980800000000000000
+      internalID: -8541404876242665669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_27
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 141
+        width: 203
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb76311e819c5d320800000000000000
+      internalID: 2582191070059390911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_28
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 141
+        width: 203
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291aac3c85fb51110800000000000000
+      internalID: 1231100461118562706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_29
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 141
+        width: 205
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e40afbbac6918840800000000000000
+      internalID: 5224622840207770851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_30
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 141
+        width: 203
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdcda3f5da428bb0800000000000000
+      internalID: -4935299958867898955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1syutugennmo-syon_31
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 141
+        width: 203
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349e08c89f57c77d0800000000000000
+      internalID: -2919328743778358973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

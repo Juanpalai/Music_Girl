@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: 991dfcb65f0a8e6488086a3afb0d07f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7892421296098407261
+    second: snare drumAttack_0
+  - first:
+      213: 740456723163930959
+    second: snare drumAttack_1
+  - first:
+      213: -3668488869244970647
+    second: snare drumAttack_2
+  - first:
+      213: 6490311746271208793
+    second: snare drumAttack_3
+  - first:
+      213: 3625296106766721656
+    second: snare drumAttack_4
+  - first:
+      213: 4351658121800180164
+    second: snare drumAttack_5
+  - first:
+      213: 4444068315856330829
+    second: snare drumAttack_6
+  - first:
+      213: -7270190721735558284
+    second: snare drumAttack_7
+  - first:
+      213: -720642169990991027
+    second: snare drumAttack_8
+  - first:
+      213: 3953765194340628800
+    second: snare drumAttack_9
+  - first:
+      213: 3650045210972388665
+    second: snare drumAttack_10
+  - first:
+      213: -4584508976717273259
+    second: snare drumAttack_11
+  - first:
+      213: 804806816993106938
+    second: snare drumAttack_12
+  - first:
+      213: 3171003118494621677
+    second: snare drumAttack_13
+  - first:
+      213: 1953425071505147773
+    second: snare drumAttack_14
+  - first:
+      213: 7817237273005446053
+    second: snare drumAttack_15
+  - first:
+      213: -7240042275527911487
+    second: snare drumAttack_16
+  - first:
+      213: -1070241840114291522
+    second: snare drumAttack_17
+  - first:
+      213: 304761453329505840
+    second: snare drumAttack_18
+  - first:
+      213: -1460813401386809739
+    second: snare drumAttack_19
+  - first:
+      213: -7653431800586219955
+    second: snare drumAttack_20
+  - first:
+      213: 2237175939633236079
+    second: snare drumAttack_21
+  - first:
+      213: -8519325896011963099
+    second: snare drumAttack_22
+  - first:
+      213: -7294120740355986284
+    second: snare drumAttack_23
+  - first:
+      213: 126220363836484171
+    second: snare drumAttack_24
+  - first:
+      213: 4022700398588221594
+    second: snare drumAttack_25
+  - first:
+      213: -629239111593756962
+    second: snare drumAttack_26
+  - first:
+      213: 3111781930201244519
+    second: snare drumAttack_27
+  - first:
+      213: 258296315579064218
+    second: snare drumAttack_28
+  - first:
+      213: -449465585783973790
+    second: snare drumAttack_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snare drumAttack_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 648
+        width: 160
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d537cab5a53878d60800000000000000
+      internalID: 7892421296098407261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 647
+        width: 164
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f416cb37771a64a00800000000000000
+      internalID: 740456723163930959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_2
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 647
+        width: 172
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969dd265fc8e61dc0800000000000000
+      internalID: -3668488869244970647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 647
+        width: 175
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9556a066528321a50800000000000000
+      internalID: 6490311746271208793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 647
+        width: 183
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ef69f993af4230800000000000000
+      internalID: 3625296106766721656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 647
+        width: 189
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1e7d57102346c30800000000000000
+      internalID: 4351658121800180164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 647
+        width: 194
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d406f2c66908cad30800000000000000
+      internalID: 4444068315856330829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_7
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 647
+        width: 199
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b7c95ce081b1b90800000000000000
+      internalID: -7270190721735558284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_8
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 647
+        width: 206
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d433587b3c3cff5f0800000000000000
+      internalID: -720642169990991027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_9
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 647
+        width: 211
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049f9fd0f789ed630800000000000000
+      internalID: 3953765194340628800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_10
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 647
+        width: 214
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dff16d7c097a230800000000000000
+      internalID: 3650045210972388665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_11
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 647
+        width: 210
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5576d2d106d8060c0800000000000000
+      internalID: -4584508976717273259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 327
+        width: 205
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbdfa7398f3b2b00800000000000000
+      internalID: 804806816993106938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 327
+        width: 199
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def178b198aa10c20800000000000000
+      internalID: 3171003118494621677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_14
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 327
+        width: 193
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77086ab0c5fb1b10800000000000000
+      internalID: 1953425071505147773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_15
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 327
+        width: 189
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3de6ed1e76c7c60800000000000000
+      internalID: 7817237273005446053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_16
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 327
+        width: 183
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c71958e8e3368b90800000000000000
+      internalID: -7240042275527911487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 327
+        width: 175
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc2a3087bcb521f0800000000000000
+      internalID: -1070241840114291522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_18
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 327
+        width: 170
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03edfe65deaba3400800000000000000
+      internalID: 304761453329505840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_19
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 327
+        width: 164
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576853f73f52abbe0800000000000000
+      internalID: -1460813401386809739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_20
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 327
+        width: 157
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e4165b35c89c590800000000000000
+      internalID: -7653431800586219955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_21
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 327
+        width: 162
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68c3edf9ab0c0f10800000000000000
+      internalID: 2237175939633236079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_22
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 327
+        width: 169
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525ab622c3645c980800000000000000
+      internalID: -8519325896011963099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_23
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 327
+        width: 177
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ca54225d316ca90800000000000000
+      internalID: -7294120740355986284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 7
+        width: 183
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ae4ed80cc60c100800000000000000
+      internalID: 126220363836484171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_25
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 7
+        width: 188
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a985ca703b083d730800000000000000
+      internalID: 4022700398588221594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_26
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 7
+        width: 193
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6fba2ac5e7447f0800000000000000
+      internalID: -629239111593756962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_27
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 7
+        width: 200
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763ef18bd254f2b20800000000000000
+      internalID: 3111781930201244519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_28
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 7
+        width: 205
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fd1e86127a59300800000000000000
+      internalID: 258296315579064218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drumAttack_29
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 7
+        width: 211
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268559c5e6d23c9f0800000000000000
+      internalID: -449465585783973790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

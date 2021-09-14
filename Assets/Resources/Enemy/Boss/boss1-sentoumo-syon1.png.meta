@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: 7189d41325c413140a130133d2fc31dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5686159626366517982
+    second: boss1-sentoumo-syon1_0
+  - first:
+      213: -8335258647034396034
+    second: boss1-sentoumo-syon1_1
+  - first:
+      213: 7164725995567820570
+    second: boss1-sentoumo-syon1_2
+  - first:
+      213: 121543491048827142
+    second: boss1-sentoumo-syon1_3
+  - first:
+      213: -5830511254974212329
+    second: boss1-sentoumo-syon1_4
+  - first:
+      213: -8927365738014626104
+    second: boss1-sentoumo-syon1_5
+  - first:
+      213: 2596927624507474168
+    second: boss1-sentoumo-syon1_6
+  - first:
+      213: -2099597766811998530
+    second: boss1-sentoumo-syon1_7
+  - first:
+      213: -6840350338280196075
+    second: boss1-sentoumo-syon1_8
+  - first:
+      213: 3722447860231667048
+    second: boss1-sentoumo-syon1_9
+  - first:
+      213: -131648788707093025
+    second: boss1-sentoumo-syon1_10
+  - first:
+      213: -1221095465882866460
+    second: boss1-sentoumo-syon1_11
+  - first:
+      213: -684932884779616481
+    second: boss1-sentoumo-syon1_12
+  - first:
+      213: -1888330641319000787
+    second: boss1-sentoumo-syon1_13
+  - first:
+      213: 8873806415575615392
+    second: boss1-sentoumo-syon1_14
+  - first:
+      213: -582111877872479206
+    second: boss1-sentoumo-syon1_15
+  - first:
+      213: -3953739295689824172
+    second: boss1-sentoumo-syon1_16
+  - first:
+      213: -479124605719382676
+    second: boss1-sentoumo-syon1_17
+  - first:
+      213: 7311265981952054200
+    second: boss1-sentoumo-syon1_18
+  - first:
+      213: 3588114318968622969
+    second: boss1-sentoumo-syon1_19
+  - first:
+      213: 6809910477946246027
+    second: boss1-sentoumo-syon1_20
+  - first:
+      213: -7461660082992516889
+    second: boss1-sentoumo-syon1_21
+  - first:
+      213: -8084305836965709013
+    second: boss1-sentoumo-syon1_22
+  - first:
+      213: 3369964029951503062
+    second: boss1-sentoumo-syon1_23
+  - first:
+      213: 5984822068187488199
+    second: boss1-sentoumo-syon1_24
+  - first:
+      213: -7885107769494854067
+    second: boss1-sentoumo-syon1_25
+  - first:
+      213: -3999525882872314718
+    second: boss1-sentoumo-syon1_26
+  - first:
+      213: -114738402563896350
+    second: boss1-sentoumo-syon1_27
+  - first:
+      213: 7996736251769869975
+    second: boss1-sentoumo-syon1_28
+  - first:
+      213: 123250912216334716
+    second: boss1-sentoumo-syon1_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 6
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 715
+        width: 201
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d714642f3b611b0800000000000000
+      internalID: -5686159626366517982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_1
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 715
+        width: 201
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7203803c66335c80800000000000000
+      internalID: -8335258647034396034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_2
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 715
+        width: 201
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fa3d625583e6360800000000000000
+      internalID: 7164725995567820570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_3
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 715
+        width: 201
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609e9b0492fcfa100800000000000000
+      internalID: 121543491048827142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_4
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 715
+        width: 201
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717585ca7ecd51fa0800000000000000
+      internalID: -5830511254974212329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_5
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 715
+        width: 202
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce25a51920ab1480800000000000000
+      internalID: -8927365738014626104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_6
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 715
+        width: 201
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0ca265ae32a0420800000000000000
+      internalID: 2596927624507474168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_7
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 714
+        width: 203
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6a7f984fabcd2e0800000000000000
+      internalID: -2099597766811998530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_8
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 714
+        width: 203
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518f59beb913211a0800000000000000
+      internalID: -6840350338280196075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_9
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 714
+        width: 204
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d75044b9ac8a330800000000000000
+      internalID: 3722447860231667048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 393
+        width: 203
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5d00acf1a4c2ef0800000000000000
+      internalID: -131648788707093025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_11
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 393
+        width: 203
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec2637b42ccd0fe0800000000000000
+      internalID: -1221095465882866460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_12
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 394
+        width: 202
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f173ab39b21ae76f0800000000000000
+      internalID: -684932884779616481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_13
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 394
+        width: 201
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2502b9594d4bc5e0800000000000000
+      internalID: -1888330641319000787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_14
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 394
+        width: 200
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a787f56be7162b70800000000000000
+      internalID: 8873806415575615392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_15
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 395
+        width: 200
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1410ebc45cebe7f0800000000000000
+      internalID: -582111877872479206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_16
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 395
+        width: 198
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458a7e1fe0f7129c0800000000000000
+      internalID: -3953739295689824172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_17
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 396
+        width: 198
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6572f8a5bec959f0800000000000000
+      internalID: -479124605719382676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_18
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 396
+        width: 196
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b356a08ca5d67560800000000000000
+      internalID: 7311265981952054200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_19
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 396
+        width: 195
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f0e9366fa8bc130800000000000000
+      internalID: 3588114318968622969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 77
+        width: 192
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83523ecf79a18e50800000000000000
+      internalID: 6809910477946246027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_21
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 76
+        width: 194
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0f48620bbd27890800000000000000
+      internalID: -7461660082992516889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_22
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 76
+        width: 194
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bba0c7ca6cecf80800000000000000
+      internalID: -8084305836965709013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_23
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 76
+        width: 195
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da6a1f2e6484ce20800000000000000
+      internalID: 3369964029951503062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_24
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 76
+        width: 198
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfdb3a46fb5e0350800000000000000
+      internalID: 5984822068187488199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_25
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 75
+        width: 197
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46269fb248729290800000000000000
+      internalID: -7885107769494854067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_26
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 75
+        width: 199
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a44a616664de78c0800000000000000
+      internalID: -3999525882872314718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_27
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 75
+        width: 200
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb4511e70e586ef0800000000000000
+      internalID: -114738402563896350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_28
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 74
+        width: 200
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7965b31a04d1afe60800000000000000
+      internalID: 7996736251769869975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1-sentoumo-syon1_29
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 74
+        width: 202
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71c5e83d00e5b100800000000000000
+      internalID: 123250912216334716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

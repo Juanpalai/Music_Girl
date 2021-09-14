@@ -1,0 +1,868 @@
+fileFormatVersion: 2
+guid: 8e6198d4c1e58f444a1deef44885e4b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3263813243925583380
+    second: AmpAttack_0
+  - first:
+      213: -1583393739555667917
+    second: AmpAttack_1
+  - first:
+      213: -3977873931934943880
+    second: AmpAttack_2
+  - first:
+      213: 1310436105448515850
+    second: AmpAttack_3
+  - first:
+      213: 2830029724005873211
+    second: AmpAttack_4
+  - first:
+      213: 4917883500430175303
+    second: AmpAttack_5
+  - first:
+      213: -3291962240986274199
+    second: AmpAttack_6
+  - first:
+      213: -1877320528837735731
+    second: AmpAttack_7
+  - first:
+      213: 5437319229628024879
+    second: AmpAttack_8
+  - first:
+      213: 8343021320619778001
+    second: AmpAttack_9
+  - first:
+      213: 5984512744080930570
+    second: AmpAttack_10
+  - first:
+      213: -8022419218493718371
+    second: AmpAttack_11
+  - first:
+      213: 7745479676984887698
+    second: AmpAttack_12
+  - first:
+      213: -1706158314465189526
+    second: AmpAttack_13
+  - first:
+      213: 4582752160135599543
+    second: AmpAttack_14
+  - first:
+      213: -6052372546337193372
+    second: AmpAttack_15
+  - first:
+      213: 6147563976562078694
+    second: AmpAttack_16
+  - first:
+      213: 6119801986137903366
+    second: AmpAttack_17
+  - first:
+      213: 4800273013293123668
+    second: AmpAttack_18
+  - first:
+      213: 3237471296655172838
+    second: AmpAttack_19
+  - first:
+      213: 1248673373690063865
+    second: AmpAttack_20
+  - first:
+      213: 5255646564943253431
+    second: AmpAttack_21
+  - first:
+      213: -6747129516632531632
+    second: AmpAttack_22
+  - first:
+      213: -5482924756895689110
+    second: AmpAttack_23
+  - first:
+      213: -8461462685970432621
+    second: AmpAttack_24
+  - first:
+      213: 1136453916629077583
+    second: AmpAttack_25
+  - first:
+      213: 134759677531639889
+    second: AmpAttack_26
+  - first:
+      213: -8735667117064063388
+    second: AmpAttack_27
+  - first:
+      213: 7518914247987955976
+    second: AmpAttack_28
+  - first:
+      213: -1111741367289071249
+    second: AmpAttack_29
+  - first:
+      213: -3065598246383569817
+    second: AmpAttack_30
+  - first:
+      213: -6412224053099733984
+    second: AmpAttack_31
+  - first:
+      213: -1908361481303671157
+    second: AmpAttack_32
+  - first:
+      213: 4291192286458784040
+    second: AmpAttack_33
+  - first:
+      213: -7200156000197060359
+    second: AmpAttack_34
+  - first:
+      213: 4163668484603285046
+    second: AmpAttack_35
+  - first:
+      213: 3176721246998242899
+    second: AmpAttack_36
+  - first:
+      213: -3430270117399587023
+    second: AmpAttack_37
+  - first:
+      213: -6815049654761382557
+    second: AmpAttack_38
+  - first:
+      213: -5086631624466545471
+    second: AmpAttack_39
+  - first:
+      213: 5545028039397867020
+    second: AmpAttack_40
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AmpAttack_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9a996a52b94b2d0800000000000000
+      internalID: -3263813243925583380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330053678c7a60ae0800000000000000
+      internalID: -1583393739555667917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_2
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 745
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8753bbd0cb0cbc8c0800000000000000
+      internalID: -3977873931934943880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09ea16e1ba9f2210800000000000000
+      internalID: 1310436105448515850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36ba233a09464720800000000000000
+      internalID: 2830029724005873211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c25e1dcf4df3440800000000000000
+      internalID: 4917883500430175303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_6
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966a30c88c99052d0800000000000000
+      internalID: -3291962240986274199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_7
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca041decea62f5e0800000000000000
+      internalID: -1877320528837735731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_8
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28016cf70d357b40800000000000000
+      internalID: 5437319229628024879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_9
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df5d0910bd58c370800000000000000
+      internalID: 8343021320619778001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_10
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07fdb822a24d0350800000000000000
+      internalID: 5984512744080930570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_11
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d904a62b934aaa090800000000000000
+      internalID: -8022419218493718371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 425
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29901b99ab87d7b60800000000000000
+      internalID: 7745479676984887698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 425
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6129b77d028258e0800000000000000
+      internalID: -1706158314465189526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_14
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 425
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b559862fc4399f30800000000000000
+      internalID: 4582752160135599543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_15
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 425
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462ce376c37a10ca0800000000000000
+      internalID: -6052372546337193372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_16
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 425
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e378f09dd8805550800000000000000
+      internalID: 6147563976562078694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 425
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601da777b77ede450800000000000000
+      internalID: 6119801986137903366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_18
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 425
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4580b366fdefd9240800000000000000
+      internalID: 4800273013293123668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_19
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 425
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4a7afcdfecdec20800000000000000
+      internalID: 3237471296655172838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_20
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 425
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbe84f41dd245110800000000000000
+      internalID: 1248673373690063865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_21
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 425
+        width: 200
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfc17884becfe840800000000000000
+      internalID: 5255646564943253431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_22
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 425
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d9093d3716d52a0800000000000000
+      internalID: -6747129516632531632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_23
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 425
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66990fbbfcb8e3b0800000000000000
+      internalID: -5482924756895689110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 200
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d72829488d29a80800000000000000
+      internalID: -8461462685970432621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 104
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e0744e0de75cf00800000000000000
+      internalID: 1136453916629077583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_26
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 104
+        width: 201
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150d1557633ced100800000000000000
+      internalID: 134759677531639889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_27
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 104
+        width: 200
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466f5536a0da4c680800000000000000
+      internalID: -8735667117064063388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_28
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 104
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80902ffebac885860800000000000000
+      internalID: 7518914247987955976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack_29
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 104
+        width: 201
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69b0a0ed1d4290f0800000000000000
+      internalID: -1111741367289071249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

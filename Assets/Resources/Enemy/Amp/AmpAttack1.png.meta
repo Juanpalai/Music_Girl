@@ -1,0 +1,833 @@
+fileFormatVersion: 2
+guid: bca7fd549ffd6f34aa737e8bc19895de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -948345772241927409
+    second: AmpAttack1_0
+  - first:
+      213: -7798852138280563862
+    second: AmpAttack1_1
+  - first:
+      213: 561734959377377106
+    second: AmpAttack1_2
+  - first:
+      213: -3730578770204320570
+    second: AmpAttack1_3
+  - first:
+      213: 6684435364467562768
+    second: AmpAttack1_4
+  - first:
+      213: -2048964111262278978
+    second: AmpAttack1_5
+  - first:
+      213: -4242130037370191019
+    second: AmpAttack1_6
+  - first:
+      213: -5570142698683342215
+    second: AmpAttack1_7
+  - first:
+      213: -3410354550480949977
+    second: AmpAttack1_8
+  - first:
+      213: 5820468424633448228
+    second: AmpAttack1_9
+  - first:
+      213: 7138275038294238520
+    second: AmpAttack1_10
+  - first:
+      213: 505862964087243299
+    second: AmpAttack1_11
+  - first:
+      213: 8476499070364428490
+    second: AmpAttack1_12
+  - first:
+      213: 26898928656543284
+    second: AmpAttack1_13
+  - first:
+      213: -893990030395554394
+    second: AmpAttack1_14
+  - first:
+      213: -5071507223287021094
+    second: AmpAttack1_15
+  - first:
+      213: -5624508329096481478
+    second: AmpAttack1_16
+  - first:
+      213: 1492296377155923296
+    second: AmpAttack1_17
+  - first:
+      213: 3825171606764399170
+    second: AmpAttack1_18
+  - first:
+      213: -3863454958342446214
+    second: AmpAttack1_19
+  - first:
+      213: -784796182231176323
+    second: AmpAttack1_20
+  - first:
+      213: 5497437355067921554
+    second: AmpAttack1_21
+  - first:
+      213: 237098894363764732
+    second: AmpAttack1_22
+  - first:
+      213: 8732659946538943823
+    second: AmpAttack1_23
+  - first:
+      213: 8150825855043297111
+    second: AmpAttack1_24
+  - first:
+      213: -8551228858204100145
+    second: AmpAttack1_25
+  - first:
+      213: -1680323602634625478
+    second: AmpAttack1_26
+  - first:
+      213: -841397882590329450
+    second: AmpAttack1_27
+  - first:
+      213: -6247547280332676252
+    second: AmpAttack1_28
+  - first:
+      213: -5744185969123443782
+    second: AmpAttack1_29
+  - first:
+      213: 6848820527173840270
+    second: AmpAttack1_30
+  - first:
+      213: -6454464527563361377
+    second: AmpAttack1_31
+  - first:
+      213: -1397222428745926239
+    second: AmpAttack1_32
+  - first:
+      213: -6911546076198626408
+    second: AmpAttack1_33
+  - first:
+      213: -3892828280769992086
+    second: AmpAttack1_34
+  - first:
+      213: 5532374789131160221
+    second: AmpAttack1_35
+  - first:
+      213: 6670622366506428636
+    second: AmpAttack1_36
+  - first:
+      213: 4088177208178328791
+    second: AmpAttack1_37
+  - first:
+      213: -7055178160854677590
+    second: AmpAttack1_38
+  - first:
+      213: 1672767794988030923
+    second: AmpAttack1_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AmpAttack1_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03c6417b8cc6d2f0800000000000000
+      internalID: -948345772241927409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bcdf1ec49e4c390800000000000000
+      internalID: -7798852138280563862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_2
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2576b9728feabc700800000000000000
+      internalID: 561734959377377106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_3
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc9b5bbf525a3cc0800000000000000
+      internalID: -3730578770204320570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_4
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019d52f5c82e3cc50800000000000000
+      internalID: 6684435364467562768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_5
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba10b62ffd9093e0800000000000000
+      internalID: -2048964111262278978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_6
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553098fe43de025c0800000000000000
+      internalID: -4242130037370191019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_7
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9726eb83ab0e2b2b0800000000000000
+      internalID: -5570142698683342215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_8
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d227cea9cfba0d0800000000000000
+      internalID: -3410354550480949977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_9
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42777aca13576c050800000000000000
+      internalID: 5820468424633448228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_10
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835e09eb35f301360800000000000000
+      internalID: 7138275038294238520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_11
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 745
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32242778faf250700800000000000000
+      internalID: 505862964087243299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 425
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8200c7ef292a570800000000000000
+      internalID: 8476499070364428490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 425
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e696fde609f5000800000000000000
+      internalID: 26898928656543284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_14
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 425
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5488dcdc8e793f0800000000000000
+      internalID: -893990030395554394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_15
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 425
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad14628ec036e99b0800000000000000
+      internalID: -5071507223287021094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_16
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 425
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a357aff797bb1f1b0800000000000000
+      internalID: -5624508329096481478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_17
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 425
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d2bf306a3b5b410800000000000000
+      internalID: 1492296377155923296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 425
+        width: 200
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a2a1a4f4db51530800000000000000
+      internalID: 3825171606764399170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_19
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 425
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73e6425f20426ac0800000000000000
+      internalID: -3863454958342446214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_20
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 425
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b2701c708db15f0800000000000000
+      internalID: -784796182231176323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_21
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 425
+        width: 200
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29459c3d522da4c40800000000000000
+      internalID: 5497437355067921554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_22
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 425
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7a03f20385a4300800000000000000
+      internalID: 237098894363764732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_23
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 425
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f454cb924f3a03970800000000000000
+      internalID: 8732659946538943823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 200
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fdce32eec8d1170800000000000000
+      internalID: 8150825855043297111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 104
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9eca9e8aee35980800000000000000
+      internalID: -8551228858204100145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_26
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 104
+        width: 201
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e224d069a4ea8e0800000000000000
+      internalID: -1680323602634625478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_27
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 104
+        width: 200
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695007d6511c254f0800000000000000
+      internalID: -841397882590329450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmpAttack1_28
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 104
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463205679d04c49a0800000000000000
+      internalID: -6247547280332676252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

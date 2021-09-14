@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: 52109a27e69112e4bb93b26a143b594f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6955119166622588008
+    second: Amptaiki_0
+  - first:
+      213: -2045434473282865510
+    second: Amptaiki_1
+  - first:
+      213: 7070768753018219929
+    second: Amptaiki_2
+  - first:
+      213: 5742859666875460622
+    second: Amptaiki_3
+  - first:
+      213: 8260260903856299516
+    second: Amptaiki_4
+  - first:
+      213: -2408247244421032835
+    second: Amptaiki_5
+  - first:
+      213: 2944368329304471043
+    second: Amptaiki_6
+  - first:
+      213: 1087649147006985644
+    second: Amptaiki_7
+  - first:
+      213: 5291515104711375540
+    second: Amptaiki_8
+  - first:
+      213: -8616146835330106266
+    second: Amptaiki_9
+  - first:
+      213: 6036209110747893229
+    second: Amptaiki_10
+  - first:
+      213: 5301361266739901691
+    second: Amptaiki_11
+  - first:
+      213: 2819962326976671548
+    second: Amptaiki_12
+  - first:
+      213: -2931268283968215635
+    second: Amptaiki_13
+  - first:
+      213: -5055170271510668116
+    second: Amptaiki_14
+  - first:
+      213: -3719823375872299198
+    second: Amptaiki_15
+  - first:
+      213: 2324944825106859139
+    second: Amptaiki_16
+  - first:
+      213: 620698078592873721
+    second: Amptaiki_17
+  - first:
+      213: 7477741371384498688
+    second: Amptaiki_18
+  - first:
+      213: 1969762889290170320
+    second: Amptaiki_19
+  - first:
+      213: 4720607231499153701
+    second: Amptaiki_20
+  - first:
+      213: 6869125769632847073
+    second: Amptaiki_21
+  - first:
+      213: 6978230723784601263
+    second: Amptaiki_22
+  - first:
+      213: -7608270341408922213
+    second: Amptaiki_23
+  - first:
+      213: 8548382304558913953
+    second: Amptaiki_24
+  - first:
+      213: 7282416314637057057
+    second: Amptaiki_25
+  - first:
+      213: 8476764173964716965
+    second: Amptaiki_26
+  - first:
+      213: -2626456247166622023
+    second: Amptaiki_27
+  - first:
+      213: -7500283379992129926
+    second: Amptaiki_28
+  - first:
+      213: 1837269327526256958
+    second: Amptaiki_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amptaiki_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 747
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89323feb7f37a7f90800000000000000
+      internalID: -6955119166622588008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 747
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96f2a80f282d93e0800000000000000
+      internalID: -2045434473282865510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_2
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 747
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d2594e7ba602260800000000000000
+      internalID: 7070768753018219929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_3
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 747
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ca707a07cb2bf40800000000000000
+      internalID: 5742859666875460622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_4
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 747
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdd66ef68752a270800000000000000
+      internalID: 8260260903856299516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_5
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 747
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7498f004ef249ed0800000000000000
+      internalID: -2408247244421032835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_6
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 747
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3067a14456f7cd820800000000000000
+      internalID: 2944368329304471043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_7
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 747
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5ab97f22b181f00800000000000000
+      internalID: 1087649147006985644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_8
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 747
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba7febb3fc3f6940800000000000000
+      internalID: 5291515104711375540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_9
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 747
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cfa838a1c4d6880800000000000000
+      internalID: -8616146835330106266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_10
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 747
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedca1c743ce4c350800000000000000
+      internalID: 6036209110747893229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_11
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 747
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4fb0afbf7329940800000000000000
+      internalID: 5301361266739901691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 428
+        width: 101
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fad6babc4822720800000000000000
+      internalID: 2819962326976671548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 428
+        width: 103
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a4b8b60b0257d0800000000000000
+      internalID: -2931268283968215635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_14
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 428
+        width: 101
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacdd77eb6d68d9b0800000000000000
+      internalID: -5055170271510668116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_15
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 428
+        width: 101
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fefed1958806cc0800000000000000
+      internalID: -3719823375872299198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_16
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 428
+        width: 103
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38480e6100dd34020800000000000000
+      internalID: 2324944825106859139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_17
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 428
+        width: 101
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4bb472d992d9800800000000000000
+      internalID: 620698078592873721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_18
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 428
+        width: 101
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a8d93982646c760800000000000000
+      internalID: 7477741371384498688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_19
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 428
+        width: 103
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df33eb59e0065b10800000000000000
+      internalID: 1969762889290170320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_20
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 428
+        width: 101
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521b5a52447f28140800000000000000
+      internalID: 4720607231499153701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_21
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 428
+        width: 101
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e492784e79045f50800000000000000
+      internalID: 6869125769632847073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_22
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 428
+        width: 101
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faee5ebfed7a7d060800000000000000
+      internalID: 6978230723784601263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_23
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 428
+        width: 101
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b956e215f6ef96690800000000000000
+      internalID: -7608270341408922213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9187b2a64f1a670800000000000000
+      internalID: 8548382304558913953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_25
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 108
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c7374ed07501560800000000000000
+      internalID: 7282416314637057057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_26
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 108
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abace9ba1483a570800000000000000
+      internalID: 8476764173964716965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_27
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 108
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6278175f3fc8bd0800000000000000
+      internalID: -2626456247166622023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_28
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 108
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e8dcc0104a9e790800000000000000
+      internalID: -7500283379992129926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amptaiki_29
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 108
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e316ce718ba4f7910800000000000000
+      internalID: 1837269327526256958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

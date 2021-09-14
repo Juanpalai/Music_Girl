@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: 81acb84c8d832e64ab1d54df37eb3cef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7612449281014759096
+    second: boss1kougeki_0
+  - first:
+      213: -527891251224225099
+    second: boss1kougeki_1
+  - first:
+      213: 1400175969964034278
+    second: boss1kougeki_2
+  - first:
+      213: 4235489419779226119
+    second: boss1kougeki_3
+  - first:
+      213: -7213923335984373046
+    second: boss1kougeki_4
+  - first:
+      213: -3835660353089294322
+    second: boss1kougeki_5
+  - first:
+      213: 5116698784164786354
+    second: boss1kougeki_6
+  - first:
+      213: 5556736608788736821
+    second: boss1kougeki_7
+  - first:
+      213: -5840312243277499503
+    second: boss1kougeki_8
+  - first:
+      213: -6282450039461877457
+    second: boss1kougeki_9
+  - first:
+      213: -1907945838744688432
+    second: boss1kougeki_10
+  - first:
+      213: -4067082338064957075
+    second: boss1kougeki_11
+  - first:
+      213: 2533270917629508738
+    second: boss1kougeki_12
+  - first:
+      213: 6870245939862576752
+    second: boss1kougeki_13
+  - first:
+      213: -2562226092201957746
+    second: boss1kougeki_14
+  - first:
+      213: 8270602339829323171
+    second: boss1kougeki_15
+  - first:
+      213: 1553615788950701622
+    second: boss1kougeki_16
+  - first:
+      213: 7386157954321484976
+    second: boss1kougeki_17
+  - first:
+      213: -4508841369982427723
+    second: boss1kougeki_18
+  - first:
+      213: 3009685313084193805
+    second: boss1kougeki_19
+  - first:
+      213: 8905689083009861816
+    second: boss1kougeki_20
+  - first:
+      213: 84294831178428729
+    second: boss1kougeki_21
+  - first:
+      213: 8542638877075722191
+    second: boss1kougeki_22
+  - first:
+      213: -8649985374398907825
+    second: boss1kougeki_23
+  - first:
+      213: 7796974054910667352
+    second: boss1kougeki_24
+  - first:
+      213: -2390094658961594100
+    second: boss1kougeki_25
+  - first:
+      213: 1868173116664090413
+    second: boss1kougeki_26
+  - first:
+      213: -8871273587871358465
+    second: boss1kougeki_27
+  - first:
+      213: 1741217470938613639
+    second: boss1kougeki_28
+  - first:
+      213: 1250979357257194759
+    second: boss1kougeki_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss1kougeki_0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 953
+        width: 63
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beff81e94ad4a960800000000000000
+      internalID: 7612449281014759096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_1
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 963
+        width: 116
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba5eb234bd8ca8f0800000000000000
+      internalID: -527891251224225099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_2
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 981
+        width: 168
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e88eb050ac6e6310800000000000000
+      internalID: 1400175969964034278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_3
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1002
+        width: 211
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abddbcf2b77ca30800000000000000
+      internalID: 4235489419779226119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_4
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1031
+        width: 240
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac220c962fef2eb90800000000000000
+      internalID: -7213923335984373046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_5
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1061
+        width: 256
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0030172b3ff4cac0800000000000000
+      internalID: -3835660353089294322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_6
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 1057
+        width: 255
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0b0dc4f6a220740800000000000000
+      internalID: 5116698784164786354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_7
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 1024
+        width: 227
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53be24d318e7d1d40800000000000000
+      internalID: 5556736608788736821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_8
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 996
+        width: 176
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193741245fa03fea0800000000000000
+      internalID: -5840312243277499503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_9
+      rect:
+        serializedVersion: 2
+        x: 3522
+        y: 977
+        width: 112
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f296cb699f040d8a0800000000000000
+      internalID: -6282450039461877457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 434
+        width: 39
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d820fe4e5d9585e0800000000000000
+      internalID: -1907945838744688432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_11
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 436
+        width: 70
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d618f5f6922de87c0800000000000000
+      internalID: -4067082338064957075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_12
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 450
+        width: 138
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c722d4a7cf72320800000000000000
+      internalID: 2533270917629508738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_13
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 475
+        width: 198
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e141d3844085f50800000000000000
+      internalID: 6870245939862576752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_14
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 505
+        width: 240
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86a014c1f4217cd0800000000000000
+      internalID: -2562226092201957746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_15
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 538
+        width: 260
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a59a00320517c270800000000000000
+      internalID: 8270602339829323171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_16
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 514
+        width: 248
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63648d1245d8f8510800000000000000
+      internalID: 1553615788950701622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_17
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 469
+        width: 207
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc0242a687e08660800000000000000
+      internalID: 7386157954321484976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_18
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 436
+        width: 139
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd9c91b9a06d61c0800000000000000
+      internalID: -4508841369982427723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_19
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 418
+        width: 59
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cf714a8dc84c920800000000000000
+      internalID: 3009685313084193805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 63
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b880e0690d579b70800000000000000
+      internalID: 8905689083009861816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_21
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 69
+        width: 155
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931baccc3b97b2100800000000000000
+      internalID: 84294831178428729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_22
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 109
+        width: 225
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf4a804ccc8d8670800000000000000
+      internalID: 8542638877075722191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_23
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 161
+        width: 258
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4af0aea12415f780800000000000000
+      internalID: -8649985374398907825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_24
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 140
+        width: 246
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a23e1c79a643c60800000000000000
+      internalID: 7796974054910667352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_25
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 99
+        width: 193
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c092909229da4ded0800000000000000
+      internalID: -2390094658961594100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_26
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 99
+        width: 192
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f82b53d851de910800000000000000
+      internalID: 1868173116664090413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_27
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 99
+        width: 192
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff16f918ca7e2e480800000000000000
+      internalID: -8871273587871358465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_28
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 99
+        width: 192
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7870000801c0a2810800000000000000
+      internalID: 1741217470938613639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss1kougeki_29
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 99
+        width: 192
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d59a2f81f5c5110800000000000000
+      internalID: 1250979357257194759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

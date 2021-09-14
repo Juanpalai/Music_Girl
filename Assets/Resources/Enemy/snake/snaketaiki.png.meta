@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: 7b95b5d78ea39044d863dab9e9454231
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7162198893922517110
+    second: snaketaiki_0
+  - first:
+      213: 2970748915455557073
+    second: snaketaiki_1
+  - first:
+      213: 1673784599405700617
+    second: snaketaiki_2
+  - first:
+      213: 1689437889100896519
+    second: snaketaiki_3
+  - first:
+      213: -4605709803736921040
+    second: snaketaiki_4
+  - first:
+      213: 5279024630790399745
+    second: snaketaiki_5
+  - first:
+      213: 828618892864241075
+    second: snaketaiki_6
+  - first:
+      213: 2545957650891317780
+    second: snaketaiki_7
+  - first:
+      213: 29998000437639389
+    second: snaketaiki_8
+  - first:
+      213: -6063524113091082473
+    second: snaketaiki_9
+  - first:
+      213: -2274266190230510578
+    second: snaketaiki_10
+  - first:
+      213: 3204227650127323746
+    second: snaketaiki_11
+  - first:
+      213: 6730439696189579684
+    second: snaketaiki_12
+  - first:
+      213: 5499357048338308273
+    second: snaketaiki_13
+  - first:
+      213: -6330267063587890104
+    second: snaketaiki_14
+  - first:
+      213: -804446422179311824
+    second: snaketaiki_15
+  - first:
+      213: -3543991700746462983
+    second: snaketaiki_16
+  - first:
+      213: -5363905934196206964
+    second: snaketaiki_17
+  - first:
+      213: -8255261484360531606
+    second: snaketaiki_18
+  - first:
+      213: -464768937759354678
+    second: snaketaiki_19
+  - first:
+      213: -858121797815056813
+    second: snaketaiki_20
+  - first:
+      213: -4281929775932955227
+    second: snaketaiki_21
+  - first:
+      213: 7519131017344190903
+    second: snaketaiki_22
+  - first:
+      213: 8595549640244061463
+    second: snaketaiki_23
+  - first:
+      213: 976523259506469422
+    second: snaketaiki_24
+  - first:
+      213: -3911729750772018884
+    second: snaketaiki_25
+  - first:
+      213: 9067885151953467292
+    second: snaketaiki_26
+  - first:
+      213: -1055765855965478669
+    second: snaketaiki_27
+  - first:
+      213: 7418282382139605612
+    second: snaketaiki_28
+  - first:
+      213: -7623539214232213939
+    second: snaketaiki_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snaketaiki_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 742
+        width: 148
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67082f272fd356360800000000000000
+      internalID: 7162198893922517110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 742
+        width: 147
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddfa9e16683a3920800000000000000
+      internalID: 2970748915455557073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_2
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 742
+        width: 148
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906a81e993a7a3710800000000000000
+      internalID: 1673784599405700617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_3
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 742
+        width: 148
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709d1f12fc6127710800000000000000
+      internalID: 1689437889100896519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_4
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 742
+        width: 147
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c0ab9e55b3510c0800000000000000
+      internalID: -4605709803736921040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_5
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 742
+        width: 148
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107acc6aeecd24940800000000000000
+      internalID: 5279024630790399745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_6
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 742
+        width: 148
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdb95b2e78df7b00800000000000000
+      internalID: 828618892864241075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_7
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 742
+        width: 147
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412a0929efe055320800000000000000
+      internalID: 2545957650891317780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_8
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 742
+        width: 148
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8be00c5039a6000800000000000000
+      internalID: 29998000437639389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_9
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 742
+        width: 148
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717c030f1f80adba0800000000000000
+      internalID: -6063524113091082473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_10
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 742
+        width: 147
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0421a613fe2070e0800000000000000
+      internalID: -2274266190230510578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_11
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 742
+        width: 148
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262e2513214b77c20800000000000000
+      internalID: 3204227650127323746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 423
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a161998e33576d50800000000000000
+      internalID: 6730439696189579684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 423
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcde3f3914a15c40800000000000000
+      internalID: 5499357048338308273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_14
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 423
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c1d7515af5628a0800000000000000
+      internalID: -6330267063587890104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_15
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 423
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f0b2dbd3806d4f0800000000000000
+      internalID: -804446422179311824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_16
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 423
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f81316335631dec0800000000000000
+      internalID: -3543991700746462983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_17
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 423
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8210a7d8f39f85b0800000000000000
+      internalID: -5363905934196206964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_18
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 423
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a610ab01b6b6f6d80800000000000000
+      internalID: -8255261484360531606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_19
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 423
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0d7321d1fcc89f0800000000000000
+      internalID: -464768937759354678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_20
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 423
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356c63b75c65714f0800000000000000
+      internalID: -858121797815056813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_21
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 423
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a529503e878394c0800000000000000
+      internalID: -4281929775932955227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_22
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 423
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90c6c72d1595860800000000000000
+      internalID: 7519131017344190903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_23
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 423
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715ebfb4bd6894770800000000000000
+      internalID: 8595549640244061463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 102
+        width: 148
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a2acd0bbe4d8d00800000000000000
+      internalID: 976523259506469422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 102
+        width: 147
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3118e3548eb6b9c0800000000000000
+      internalID: -3911729750772018884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_26
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 102
+        width: 148
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97b932808997dd70800000000000000
+      internalID: 9067885151953467292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_27
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 102
+        width: 148
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f001353c8a2951f0800000000000000
+      internalID: -1055765855965478669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_28
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 102
+        width: 147
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6248f6d58803f660800000000000000
+      internalID: 7418282382139605612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snaketaiki_29
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 102
+        width: 148
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46ad64d97fb33690800000000000000
+      internalID: -7623539214232213939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

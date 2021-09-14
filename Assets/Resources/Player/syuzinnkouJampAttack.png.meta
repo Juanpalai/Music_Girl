@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: 7f9de90e5b87a0b4db5e403503f5aa42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7792277418541133414
+    second: syuzinnkouJampAttack_0
+  - first:
+      213: 1320208816495361479
+    second: syuzinnkouJampAttack_1
+  - first:
+      213: 4600477747164524761
+    second: syuzinnkouJampAttack_2
+  - first:
+      213: -2213950500394123676
+    second: syuzinnkouJampAttack_3
+  - first:
+      213: 5530674609661489709
+    second: syuzinnkouJampAttack_4
+  - first:
+      213: 1738814080055662890
+    second: syuzinnkouJampAttack_5
+  - first:
+      213: -6622563991358104336
+    second: syuzinnkouJampAttack_6
+  - first:
+      213: -7894562864811230733
+    second: syuzinnkouJampAttack_7
+  - first:
+      213: -1710567238858343042
+    second: syuzinnkouJampAttack_8
+  - first:
+      213: 2636166229578136813
+    second: syuzinnkouJampAttack_9
+  - first:
+      213: 3879543213286269050
+    second: syuzinnkouJampAttack_10
+  - first:
+      213: -8733422910867838496
+    second: syuzinnkouJampAttack_11
+  - first:
+      213: -8361317471444590083
+    second: syuzinnkouJampAttack_12
+  - first:
+      213: -3949256602331375313
+    second: syuzinnkouJampAttack_13
+  - first:
+      213: 9198541597237422385
+    second: syuzinnkouJampAttack_14
+  - first:
+      213: -7244782605712005900
+    second: syuzinnkouJampAttack_15
+  - first:
+      213: 3557326573859919489
+    second: syuzinnkouJampAttack_16
+  - first:
+      213: -6692535320691200286
+    second: syuzinnkouJampAttack_17
+  - first:
+      213: -6337749903897815802
+    second: syuzinnkouJampAttack_18
+  - first:
+      213: 1300502403245581885
+    second: syuzinnkouJampAttack_19
+  - first:
+      213: -551684719992525926
+    second: syuzinnkouJampAttack_20
+  - first:
+      213: 7735938669997990933
+    second: syuzinnkouJampAttack_21
+  - first:
+      213: 5093455744813704246
+    second: syuzinnkouJampAttack_22
+  - first:
+      213: -3490115206447555160
+    second: syuzinnkouJampAttack_23
+  - first:
+      213: -4517481868548068150
+    second: syuzinnkouJampAttack_24
+  - first:
+      213: -2958598538542833866
+    second: syuzinnkouJampAttack_25
+  - first:
+      213: -4191237112576972170
+    second: syuzinnkouJampAttack_26
+  - first:
+      213: -6780872153545951663
+    second: syuzinnkouJampAttack_27
+  - first:
+      213: -1394132524916155796
+    second: syuzinnkouJampAttack_28
+  - first:
+      213: 1171585787400420550
+    second: syuzinnkouJampAttack_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1056
+        width: 162
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e2173e60bb32c60800000000000000
+      internalID: 7792277418541133414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1056
+        width: 163
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd7b808ce2525210800000000000000
+      internalID: 1320208816495361479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_2
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1056
+        width: 164
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0b4dcf22e28df30800000000000000
+      internalID: 4600477747164524761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1056
+        width: 165
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eb5b9ffb77641e0800000000000000
+      internalID: -2213950500394123676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1056
+        width: 167
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2235253147e0cc40800000000000000
+      internalID: 5530674609661489709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1056
+        width: 168
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a295a247132812810800000000000000
+      internalID: 1738814080055662890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_6
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 1057
+        width: 170
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc9ec0432de714a0800000000000000
+      internalID: -6622563991358104336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_7
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1057
+        width: 171
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9bfe1d6e0e07290800000000000000
+      internalID: -7894562864811230733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_8
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 1057
+        width: 172
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d7d63c828d248e0800000000000000
+      internalID: -1710567238858343042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 741
+        width: 174
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decb2e2083b859420800000000000000
+      internalID: 2636166229578136813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 741
+        width: 174
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70a4be6ff7e6d530800000000000000
+      internalID: 3879543213286269050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 741
+        width: 174
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9e67c5226acc680800000000000000
+      internalID: -8733422910867838496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_12
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 741
+        width: 175
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df127445f02a6fb80800000000000000
+      internalID: -8361317471444590083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 741
+        width: 177
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f291c235b0c6139c0800000000000000
+      internalID: -3949256602331375313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_14
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 741
+        width: 176
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139adf2c8d8c7af70800000000000000
+      internalID: 9198541597237422385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_15
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 741
+        width: 177
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f46b97ca9c557b90800000000000000
+      internalID: -7244782605712005900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_16
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 741
+        width: 177
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1865af0eba92e5130800000000000000
+      internalID: 3557326573859919489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_17
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 741
+        width: 176
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee227b95965f13a0800000000000000
+      internalID: -6692535320691200286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_18
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 393
+        width: 178
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60597ee8a0acb08a0800000000000000
+      internalID: -6337749903897815802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 393
+        width: 177
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36aefe9b005c0210800000000000000
+      internalID: 1300502403245581885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_20
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 393
+        width: 177
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ba5dc8ba50858f0800000000000000
+      internalID: -551684719992525926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_21
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 393
+        width: 177
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514207dcb339b5b60800000000000000
+      internalID: 7735938669997990933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_22
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 393
+        width: 177
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6342bcc73079fa640800000000000000
+      internalID: 5093455744813704246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_23
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 393
+        width: 176
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad118e06be909fc0800000000000000
+      internalID: -3490115206447555160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_24
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 393
+        width: 177
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accace9dc2eae41c0800000000000000
+      internalID: -4517481868548068150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_25
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 393
+        width: 177
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f1a25fd42f0f6d0800000000000000
+      internalID: -2958598538542833866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_26
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 393
+        width: 176
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a6a6f5d0cb5d5c0800000000000000
+      internalID: -4191237112576972170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 58
+        width: 178
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1563e84f3b085e1a0800000000000000
+      internalID: -6780872153545951663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_28
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 58
+        width: 178
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6add82eadb07ace0800000000000000
+      internalID: -1394132524916155796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJampAttack_29
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 58
+        width: 176
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccf5e9f01f424010800000000000000
+      internalID: 1171585787400420550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

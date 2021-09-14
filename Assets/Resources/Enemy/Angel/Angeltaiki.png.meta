@@ -1,0 +1,1021 @@
+fileFormatVersion: 2
+guid: e3100ee4cea9ab3448d11a8b6837b194
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4907193985922053488
+    second: Angeltaiki_0
+  - first:
+      213: -8195624485467185151
+    second: Angeltaiki_1
+  - first:
+      213: 2267766664105284461
+    second: Angeltaiki_2
+  - first:
+      213: 3158196182065322907
+    second: Angeltaiki_3
+  - first:
+      213: 6924463243389133683
+    second: Angeltaiki_4
+  - first:
+      213: -1333375874820071584
+    second: Angeltaiki_5
+  - first:
+      213: -6668114164298828130
+    second: Angeltaiki_6
+  - first:
+      213: 895084046203481516
+    second: Angeltaiki_7
+  - first:
+      213: -1260422576071985999
+    second: Angeltaiki_8
+  - first:
+      213: -1516021568643846851
+    second: Angeltaiki_9
+  - first:
+      213: -5252640313479479381
+    second: Angeltaiki_10
+  - first:
+      213: 7395285505414793956
+    second: Angeltaiki_11
+  - first:
+      213: 2844929149748097942
+    second: Angeltaiki_12
+  - first:
+      213: -8567149394988680670
+    second: Angeltaiki_13
+  - first:
+      213: 3173156003226017494
+    second: Angeltaiki_14
+  - first:
+      213: 8839391503362448960
+    second: Angeltaiki_15
+  - first:
+      213: -5513560154332416133
+    second: Angeltaiki_16
+  - first:
+      213: 1545327503069772692
+    second: Angeltaiki_17
+  - first:
+      213: 6721885359690560743
+    second: Angeltaiki_18
+  - first:
+      213: 3837041973384257458
+    second: Angeltaiki_19
+  - first:
+      213: 2668924699602583623
+    second: Angeltaiki_20
+  - first:
+      213: 166712606274778977
+    second: Angeltaiki_21
+  - first:
+      213: -1411212413788993664
+    second: Angeltaiki_22
+  - first:
+      213: -4659992563568469338
+    second: Angeltaiki_23
+  - first:
+      213: 4481140146188851356
+    second: Angeltaiki_24
+  - first:
+      213: -9108520456769179291
+    second: Angeltaiki_25
+  - first:
+      213: -1458661882960813728
+    second: Angeltaiki_26
+  - first:
+      213: 125423660794974252
+    second: Angeltaiki_27
+  - first:
+      213: -6171707341881055463
+    second: Angeltaiki_28
+  - first:
+      213: -3368508129243116473
+    second: Angeltaiki_29
+  - first:
+      213: 5438443058647306160
+    second: Angeltaiki_30
+  - first:
+      213: -7605070326730588886
+    second: Angeltaiki_31
+  - first:
+      213: 2007877427922958845
+    second: Angeltaiki_32
+  - first:
+      213: 2498254302784400167
+    second: Angeltaiki_33
+  - first:
+      213: 8213705829454434005
+    second: Angeltaiki_34
+  - first:
+      213: -6631117957728992236
+    second: Angeltaiki_35
+  - first:
+      213: -5126983272872782467
+    second: Angeltaiki_36
+  - first:
+      213: -3977910565896836829
+    second: Angeltaiki_37
+  - first:
+      213: -3960614681804043104
+    second: Angeltaiki_38
+  - first:
+      213: 7053433652225449742
+    second: Angeltaiki_39
+  - first:
+      213: 1392912261799535635
+    second: Angeltaiki_40
+  - first:
+      213: -3803336949379237392
+    second: Angeltaiki_41
+  - first:
+      213: 263648942123602449
+    second: Angeltaiki_42
+  - first:
+      213: -3070291693119094381
+    second: Angeltaiki_43
+  - first:
+      213: -6652462906564738790
+    second: Angeltaiki_44
+  - first:
+      213: 1966884947259935274
+    second: Angeltaiki_45
+  - first:
+      213: 1058529194089956778
+    second: Angeltaiki_46
+  - first:
+      213: -6213099929132053839
+    second: Angeltaiki_47
+  - first:
+      213: 6718306236620376340
+    second: Angeltaiki_48
+  - first:
+      213: 5370999872164176833
+    second: Angeltaiki_49
+  - first:
+      213: 1463843691355204029
+    second: Angeltaiki_50
+  - first:
+      213: 5871464223408719964
+    second: Angeltaiki_51
+  - first:
+      213: -99749912046400157
+    second: Angeltaiki_52
+  - first:
+      213: -1309679302728961804
+    second: Angeltaiki_53
+  - first:
+      213: 7096919816621358931
+    second: Angeltaiki_54
+  - first:
+      213: -7288680547810604937
+    second: Angeltaiki_55
+  - first:
+      213: -4322825362004556151
+    second: Angeltaiki_56
+  - first:
+      213: -1425939861522015872
+    second: Angeltaiki_57
+  - first:
+      213: 6644721394055188531
+    second: Angeltaiki_58
+  - first:
+      213: 347356565519724695
+    second: Angeltaiki_59
+  - first:
+      213: -3157144625067302762
+    second: Angeltaiki_60
+  - first:
+      213: -1633085283896214225
+    second: Angeltaiki_61
+  - first:
+      213: 4376957558331591629
+    second: Angeltaiki_62
+  - first:
+      213: 4637268786052673621
+    second: Angeltaiki_63
+  - first:
+      213: -4385262161627761367
+    second: Angeltaiki_64
+  - first:
+      213: -7644786717028771921
+    second: Angeltaiki_65
+  - first:
+      213: 4011699553915819837
+    second: Angeltaiki_66
+  - first:
+      213: 1437915258780046917
+    second: Angeltaiki_67
+  - first:
+      213: -4511909592391199893
+    second: Angeltaiki_68
+  - first:
+      213: 5880956143340557108
+    second: Angeltaiki_69
+  - first:
+      213: 2811767483983800073
+    second: Angeltaiki_70
+  - first:
+      213: 8332415298068422912
+    second: Angeltaiki_71
+  - first:
+      213: 8485764217907003878
+    second: Angeltaiki_72
+  - first:
+      213: -6815006365722528657
+    second: Angeltaiki_73
+  - first:
+      213: 7311733339670065988
+    second: Angeltaiki_74
+  - first:
+      213: 5886785786674340129
+    second: Angeltaiki_75
+  - first:
+      213: 3371394669830112118
+    second: Angeltaiki_76
+  - first:
+      213: 2829519673539294638
+    second: Angeltaiki_77
+  - first:
+      213: -1147710377647455013
+    second: Angeltaiki_78
+  - first:
+      213: 8584846103343741069
+    second: Angeltaiki_79
+  - first:
+      213: 2190474642516292470
+    second: Angeltaiki_80
+  - first:
+      213: 2141426656811078397
+    second: Angeltaiki_81
+  - first:
+      213: -3044644161517809773
+    second: Angeltaiki_82
+  - first:
+      213: -5912878610144247432
+    second: Angeltaiki_83
+  - first:
+      213: 8650715169709182636
+    second: Angeltaiki_84
+  - first:
+      213: 4433531358802143938
+    second: Angeltaiki_85
+  - first:
+      213: 7612332275488760058
+    second: Angeltaiki_86
+  - first:
+      213: 4559296792227959244
+    second: Angeltaiki_87
+  - first:
+      213: 8754635423817314281
+    second: Angeltaiki_88
+  - first:
+      213: 133041965656153188
+    second: Angeltaiki_89
+  - first:
+      213: -576239575846801856
+    second: Angeltaiki_90
+  - first:
+      213: 2189482241135937682
+    second: Angeltaiki_91
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angeltaiki_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3798
+        width: 258
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07531d64eead91440800000000000000
+      internalID: 4907193985922053488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3798
+        width: 257
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1002c37e3fa434e80800000000000000
+      internalID: -8195624485467185151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_2
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3798
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63d77f04c9b87f10800000000000000
+      internalID: 2267766664105284461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_3
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 3798
+        width: 258
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b9ffad1ba24db20800000000000000
+      internalID: 3158196182065322907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_4
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 3798
+        width: 257
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373657ae1a2a81060800000000000000
+      internalID: 6924463243389133683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_5
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 3798
+        width: 258
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f1645d4b5ee7de0800000000000000
+      internalID: -1333375874820071584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_6
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 3798
+        width: 258
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96b73b2f791673a0800000000000000
+      internalID: -6668114164298828130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_7
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 3798
+        width: 258
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cade31a923afb6c00800000000000000
+      internalID: 895084046203481516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_8
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 3798
+        width: 256
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4b8565854128ee0800000000000000
+      internalID: -1260422576071985999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_9
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 3798
+        width: 256
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d27216a6206fae0800000000000000
+      internalID: -1516021568643846851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_10
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 3800
+        width: 256
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafb82ee67fda17b0800000000000000
+      internalID: -5252640313479479381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_11
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 3800
+        width: 256
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea08da3cf451a660800000000000000
+      internalID: 7395285505414793956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3479
+        width: 258
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693b3e51df73b7720800000000000000
+      internalID: 2844929149748097942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_13
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3479
+        width: 257
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a3ff5140f5b1980800000000000000
+      internalID: -8567149394988680670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3479
+        width: 258
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de5f25a290590c20800000000000000
+      internalID: 3173156003226017494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_15
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 3480
+        width: 258
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e568c3db3dbaa70800000000000000
+      internalID: 8839391503362448960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_16
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 3479
+        width: 257
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77b4417046eb73b0800000000000000
+      internalID: -5513560154332416133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_17
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 3479
+        width: 258
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b7d123d2b127510800000000000000
+      internalID: 1545327503069772692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_18
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 3479
+        width: 258
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4314dde1fe84d50800000000000000
+      internalID: 6721885359690560743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_19
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 3479
+        width: 258
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf15d36859ef3530800000000000000
+      internalID: 3837041973384257458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_20
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 3479
+        width: 258
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740041cafdce90520800000000000000
+      internalID: 2668924699602583623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_21
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 3479
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167769c6b38405200800000000000000
+      internalID: 166712606274778977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_22
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 3478
+        width: 256
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0874c7d59cd5a6ce0800000000000000
+      internalID: -1411212413788993664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_23
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 3478
+        width: 256
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa1a800471645fb0800000000000000
+      internalID: -4659992563568469338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3157
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98145a8835303e30800000000000000
+      internalID: 4481140146188851356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_25
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3157
+        width: 257
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561f4e057e8089180800000000000000
+      internalID: -9108520456769179291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_26
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3157
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061e7baeebac1cbe0800000000000000
+      internalID: -1458661882960813728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_27
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 3157
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c201d1ca7289db100800000000000000
+      internalID: 125423660794974252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_28
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 3157
+        width: 257
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91762852fd0b95aa0800000000000000
+      internalID: -6171707341881055463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angeltaiki_29
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 3157
+        width: 258
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cc27d14b7a041d0800000000000000
+      internalID: -3368508129243116473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

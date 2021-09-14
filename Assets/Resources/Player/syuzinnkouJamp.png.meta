@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: 02f663e32c5c7e7478d6b4bfacfb1195
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8386125868521931032
+    second: syuzinnkouJamp_0
+  - first:
+      213: -4552413683544804041
+    second: syuzinnkouJamp_1
+  - first:
+      213: -1251944038476261492
+    second: syuzinnkouJamp_2
+  - first:
+      213: 1715239583967495967
+    second: syuzinnkouJamp_3
+  - first:
+      213: -5785935857709445845
+    second: syuzinnkouJamp_4
+  - first:
+      213: 6949809451041005218
+    second: syuzinnkouJamp_5
+  - first:
+      213: -7984203263064845506
+    second: syuzinnkouJamp_6
+  - first:
+      213: -5228519473428231326
+    second: syuzinnkouJamp_7
+  - first:
+      213: -6479739455211890455
+    second: syuzinnkouJamp_8
+  - first:
+      213: -5363049642421680706
+    second: syuzinnkouJamp_9
+  - first:
+      213: -1806241720875969962
+    second: syuzinnkouJamp_10
+  - first:
+      213: 6681251472362045612
+    second: syuzinnkouJamp_11
+  - first:
+      213: -6024750597120725231
+    second: syuzinnkouJamp_12
+  - first:
+      213: -967803130645917287
+    second: syuzinnkouJamp_13
+  - first:
+      213: 3134978937285405070
+    second: syuzinnkouJamp_14
+  - first:
+      213: -377061566712853343
+    second: syuzinnkouJamp_15
+  - first:
+      213: -7703410751686839683
+    second: syuzinnkouJamp_16
+  - first:
+      213: 63245059444871255
+    second: syuzinnkouJamp_17
+  - first:
+      213: -8296590881781007054
+    second: syuzinnkouJamp_18
+  - first:
+      213: -5954048594058143962
+    second: syuzinnkouJamp_19
+  - first:
+      213: 5711691645564884646
+    second: syuzinnkouJamp_20
+  - first:
+      213: 4023870008940840784
+    second: syuzinnkouJamp_21
+  - first:
+      213: 6270498339372557961
+    second: syuzinnkouJamp_22
+  - first:
+      213: -6417280536715955643
+    second: syuzinnkouJamp_23
+  - first:
+      213: -6192683624767011913
+    second: syuzinnkouJamp_24
+  - first:
+      213: -3366153981201861861
+    second: syuzinnkouJamp_25
+  - first:
+      213: 6399441218043029657
+    second: syuzinnkouJamp_26
+  - first:
+      213: -1905406488972051075
+    second: syuzinnkouJamp_27
+  - first:
+      213: -2286607749507709552
+    second: syuzinnkouJamp_28
+  - first:
+      213: -1575606795440736259
+    second: syuzinnkouJamp_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: syuzinnkouJamp_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1119
+        width: 162
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811c6fabb01816470800000000000000
+      internalID: 8386125868521931032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1119
+        width: 164
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7353fa1efd392d0c0800000000000000
+      internalID: -4552413683544804041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_2
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1119
+        width: 164
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8754f3b78330aee0800000000000000
+      internalID: -1251944038476261492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_3
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1119
+        width: 166
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17421b5051cdc710800000000000000
+      internalID: 1715239583967495967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_4
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1119
+        width: 168
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d880c1ef934bfa0800000000000000
+      internalID: -5785935857709445845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_5
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1119
+        width: 169
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae93f1cfdea27060800000000000000
+      internalID: 6949809451041005218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_6
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 1120
+        width: 170
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3351823f69623190800000000000000
+      internalID: -7984203263064845506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_7
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 1120
+        width: 170
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b0915ad319077b0800000000000000
+      internalID: -5228519473428231326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 753
+        width: 172
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8130feb475316a0800000000000000
+      internalID: -6479739455211890455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_9
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 754
+        width: 173
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb58baec3ce9295b0800000000000000
+      internalID: -5363049642421680706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_10
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 754
+        width: 174
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65292b889b0fee6e0800000000000000
+      internalID: -1806241720875969962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_11
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 754
+        width: 176
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca00239b0d298bc50800000000000000
+      internalID: 6681251472362045612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_12
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 754
+        width: 176
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11feb4e9049c36ca0800000000000000
+      internalID: -6024750597120725231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_13
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 754
+        width: 177
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991d6592e2ca192f0800000000000000
+      internalID: -967803130645917287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_14
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 754
+        width: 177
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e896a3fcbbea18b20800000000000000
+      internalID: 3134978937285405070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_15
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 754
+        width: 176
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acc0a9b08864caf0800000000000000
+      internalID: -377061566712853343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 403
+        width: 177
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72f7ca5cbcf71590800000000000000
+      internalID: -7703410751686839683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 403
+        width: 177
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7509206eb01b0e000800000000000000
+      internalID: 63245059444871255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_18
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 403
+        width: 177
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23db2bcdc869cdc80800000000000000
+      internalID: -8296590881781007054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_19
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 403
+        width: 177
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62710cf7958fe5da0800000000000000
+      internalID: -5954048594058143962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_20
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 403
+        width: 177
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a616703a41044f40800000000000000
+      internalID: 5711691645564884646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_21
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 403
+        width: 177
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05744492478a7d730800000000000000
+      internalID: 4023870008940840784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_22
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 403
+        width: 177
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9866af26409450750800000000000000
+      internalID: 6270498339372557961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_23
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 403
+        width: 176
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54274012a5d31f6a0800000000000000
+      internalID: -6417280536715955643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 72
+        width: 177
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b34263bd0b2f0aa0800000000000000
+      internalID: -6192683624767011913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 72
+        width: 176
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13323be9c40941d0800000000000000
+      internalID: -3366153981201861861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_26
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 72
+        width: 177
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998a272d1e16fc850800000000000000
+      internalID: 6399441218043029657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_27
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 72
+        width: 177
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7db810c4e2ae85e0800000000000000
+      internalID: -1905406488972051075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_28
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 72
+        width: 177
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09500f5ed565440e0800000000000000
+      internalID: -2286607749507709552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syuzinnkouJamp_29
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 72
+        width: 178
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7301ca7f1522ae0800000000000000
+      internalID: -1575606795440736259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

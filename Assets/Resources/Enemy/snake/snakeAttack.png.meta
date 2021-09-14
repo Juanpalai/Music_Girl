@@ -1,0 +1,928 @@
+fileFormatVersion: 2
+guid: cbb4f2603b2b92747a388e0f6db385b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6021004380511794600
+    second: snakeAttack_0
+  - first:
+      213: -3582734685798852846
+    second: snakeAttack_1
+  - first:
+      213: 4537741890102550500
+    second: snakeAttack_2
+  - first:
+      213: -2065323926447146950
+    second: snakeAttack_3
+  - first:
+      213: 1226873000330568409
+    second: snakeAttack_4
+  - first:
+      213: 2771638051310436934
+    second: snakeAttack_5
+  - first:
+      213: 526258048613451910
+    second: snakeAttack_6
+  - first:
+      213: 8352762505832968820
+    second: snakeAttack_7
+  - first:
+      213: 262080380383487492
+    second: snakeAttack_8
+  - first:
+      213: 1293285134631439436
+    second: snakeAttack_9
+  - first:
+      213: -4368102954417547509
+    second: snakeAttack_10
+  - first:
+      213: 1677713875676388795
+    second: snakeAttack_11
+  - first:
+      213: -7655336519886172520
+    second: snakeAttack_12
+  - first:
+      213: 2152947178982107971
+    second: snakeAttack_13
+  - first:
+      213: 888558549482589693
+    second: snakeAttack_14
+  - first:
+      213: 593499159301377264
+    second: snakeAttack_15
+  - first:
+      213: -3416994643211083540
+    second: snakeAttack_16
+  - first:
+      213: -9192007830736681854
+    second: snakeAttack_17
+  - first:
+      213: -2707728298311580783
+    second: snakeAttack_18
+  - first:
+      213: -5359063968236812863
+    second: snakeAttack_19
+  - first:
+      213: 4046114786303082562
+    second: snakeAttack_20
+  - first:
+      213: 7743877874642022924
+    second: snakeAttack_21
+  - first:
+      213: 2201443412549084212
+    second: snakeAttack_22
+  - first:
+      213: 9045536149240900892
+    second: snakeAttack_23
+  - first:
+      213: 285762041251670860
+    second: snakeAttack_24
+  - first:
+      213: 7570390311427074399
+    second: snakeAttack_25
+  - first:
+      213: 5178880769925924226
+    second: snakeAttack_26
+  - first:
+      213: 1677842176467057654
+    second: snakeAttack_27
+  - first:
+      213: 1386935104224292051
+    second: snakeAttack_28
+  - first:
+      213: 2293409430722215326
+    second: snakeAttack_29
+  - first:
+      213: 3610849545779876784
+    second: snakeAttack_30
+  - first:
+      213: 2687117367484546144
+    second: snakeAttack_0
+  - first:
+      213: -8113821610979057781
+    second: snakeAttack_1
+  - first:
+      213: 9134681953289493390
+    second: snakeAttack_2
+  - first:
+      213: 5062302468226339904
+    second: snakeAttack_3
+  - first:
+      213: 109244815415406235
+    second: snakeAttack_4
+  - first:
+      213: -3257779617179423590
+    second: snakeAttack_5
+  - first:
+      213: 3326306587395864627
+    second: snakeAttack_6
+  - first:
+      213: -4849367661474286879
+    second: snakeAttack_7
+  - first:
+      213: -6919462734134935942
+    second: snakeAttack_8
+  - first:
+      213: -2175077413090293828
+    second: snakeAttack_9
+  - first:
+      213: 91864656151799708
+    second: snakeAttack_10
+  - first:
+      213: -8787981106198748205
+    second: snakeAttack_11
+  - first:
+      213: 6476442484880003990
+    second: snakeAttack_12
+  - first:
+      213: -6833606674835545072
+    second: snakeAttack_13
+  - first:
+      213: 4772049691210475217
+    second: snakeAttack_14
+  - first:
+      213: -4959658484295039405
+    second: snakeAttack_15
+  - first:
+      213: 5232939378888663116
+    second: snakeAttack_16
+  - first:
+      213: -8088664943256994934
+    second: snakeAttack_17
+  - first:
+      213: 5782697271549958303
+    second: snakeAttack_18
+  - first:
+      213: 1173650533861449828
+    second: snakeAttack_19
+  - first:
+      213: -8641077900120574185
+    second: snakeAttack_20
+  - first:
+      213: -1823823634215669034
+    second: snakeAttack_21
+  - first:
+      213: -4685551071938341304
+    second: snakeAttack_22
+  - first:
+      213: 4220741859973039136
+    second: snakeAttack_23
+  - first:
+      213: 8177588449419041777
+    second: snakeAttack_24
+  - first:
+      213: 8540421177893082186
+    second: snakeAttack_25
+  - first:
+      213: 2580453202128752572
+    second: snakeAttack_26
+  - first:
+      213: -2401533359364833736
+    second: snakeAttack_27
+  - first:
+      213: 5938238835715206433
+    second: snakeAttack_28
+  - first:
+      213: 1029440079924576983
+    second: snakeAttack_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snakeAttack_0
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 661
+        width: 34
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cf2be320f8a4520800000000000000
+      internalID: 2687117367484546144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_1
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 671
+        width: 34
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f94b2db3ae56f80800000000000000
+      internalID: -8113821610979057781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_2
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 681
+        width: 34
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bddf1c6d8e4ce70800000000000000
+      internalID: 9134681953289493390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 690
+        width: 33
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044d63c0649e04640800000000000000
+      internalID: 5062302468226339904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 701
+        width: 34
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e6360b49d148100800000000000000
+      internalID: 109244815415406235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 711
+        width: 34
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c2389d2ba0ac2d0800000000000000
+      internalID: -3257779617179423590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_6
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 720
+        width: 35
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338b5cbb73a692e20800000000000000
+      internalID: 3326306587395864627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_7
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 731
+        width: 34
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2fe801ec593bcb0800000000000000
+      internalID: -4849367661474286879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_8
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 741
+        width: 33
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e755fdd4129ff90800000000000000
+      internalID: -6919462734134935942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_9
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 750
+        width: 34
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb707c9ed9290d1e0800000000000000
+      internalID: -2175077413090293828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_10
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 760
+        width: 34
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9767550b6e564100800000000000000
+      internalID: 91864656151799708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_11
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 862
+        width: 159
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3ed20aeb1da0680800000000000000
+      internalID: -8787981106198748205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 531
+        width: 159
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69355875022f0e950800000000000000
+      internalID: 6476442484880003990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_13
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 522
+        width: 157
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01460bb6fe62a21a0800000000000000
+      internalID: -6833606674835545072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_14
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 511
+        width: 157
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6ec1729e9b93240800000000000000
+      internalID: 4772049691210475217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_15
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 501
+        width: 157
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356875cc2e0cb2bb0800000000000000
+      internalID: -4959658484295039405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_16
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 490
+        width: 159
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40efc9c3a22f9840800000000000000
+      internalID: 5232939378888663116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 481
+        width: 157
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bf206f61a4fbf80800000000000000
+      internalID: -8088664943256994934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_18
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 470
+        width: 157
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f981b5ac784404050800000000000000
+      internalID: 5782697271549958303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_19
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 460
+        width: 157
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460624931f4a94010800000000000000
+      internalID: 1173650533861449828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_20
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 449
+        width: 159
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717b5d6ae69b41880800000000000000
+      internalID: -8641077900120574185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_21
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 440
+        width: 157
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2fc95511a70b6e0800000000000000
+      internalID: -1823823634215669034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_22
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 429
+        width: 159
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8461a2c002499feb0800000000000000
+      internalID: -4685551071938341304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_23
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 419
+        width: 157
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0248054fb56139a30800000000000000
+      internalID: 4220741859973039136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 89
+        width: 159
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb95f63e51ac7170800000000000000
+      internalID: 8177588449419041777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_25
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 78
+        width: 158
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a445a8cefcba58670800000000000000
+      internalID: 8540421177893082186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_26
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 68
+        width: 157
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf4768f38c9fc320800000000000000
+      internalID: 2580453202128752572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_27
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 57
+        width: 158
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83efece222a0caed0800000000000000
+      internalID: -2401533359364833736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_28
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 48
+        width: 157
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12deb3a42ccd86250800000000000000
+      internalID: 5938238835715206433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snakeAttack_29
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 38
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d244796c4e494e00800000000000000
+      internalID: 1029440079924576983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

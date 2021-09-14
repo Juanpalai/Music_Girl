@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: e56bbc9d2ef75df409922141e737bc53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3886074297524242863
+    second: snare drum_0
+  - first:
+      213: 9047077169601523888
+    second: snare drum_1
+  - first:
+      213: 6724221753828935307
+    second: snare drum_2
+  - first:
+      213: -8960391441182197969
+    second: snare drum_3
+  - first:
+      213: 5113743050504674879
+    second: snare drum_4
+  - first:
+      213: -5888478968297644275
+    second: snare drum_5
+  - first:
+      213: -2228582605246910738
+    second: snare drum_6
+  - first:
+      213: 5632482262391513315
+    second: snare drum_7
+  - first:
+      213: -7112009302102864599
+    second: snare drum_8
+  - first:
+      213: -2909238509654854361
+    second: snare drum_9
+  - first:
+      213: 9081981949733359527
+    second: snare drum_10
+  - first:
+      213: -2398841171699719017
+    second: snare drum_11
+  - first:
+      213: -671453355960377469
+    second: snare drum_12
+  - first:
+      213: 5598710318241998345
+    second: snare drum_13
+  - first:
+      213: 7621578594077500258
+    second: snare drum_14
+  - first:
+      213: 24509059848897972
+    second: snare drum_15
+  - first:
+      213: 3794705294830582671
+    second: snare drum_16
+  - first:
+      213: 3378559958297416121
+    second: snare drum_17
+  - first:
+      213: 5713149554438446939
+    second: snare drum_18
+  - first:
+      213: 2428184264903363875
+    second: snare drum_19
+  - first:
+      213: 6685083541520448000
+    second: snare drum_20
+  - first:
+      213: 2648995274123346527
+    second: snare drum_21
+  - first:
+      213: -125112297830954175
+    second: snare drum_22
+  - first:
+      213: -5550184611540237870
+    second: snare drum_23
+  - first:
+      213: 7215024019391353674
+    second: snare drum_24
+  - first:
+      213: 2913366823833275025
+    second: snare drum_25
+  - first:
+      213: 4856158165680522357
+    second: snare drum_26
+  - first:
+      213: -9100894796310445217
+    second: snare drum_27
+  - first:
+      213: 4007828878453736370
+    second: snare drum_28
+  - first:
+      213: 1848990805841317116
+    second: snare drum_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snare drum_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 648
+        width: 160
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156ba450404e11ac0800000000000000
+      internalID: -3886074297524242863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 648
+        width: 161
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b035a590ccad8d70800000000000000
+      internalID: 9047077169601523888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_2
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 648
+        width: 164
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b868de30f0c315d50800000000000000
+      internalID: 6724221753828935307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_3
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 648
+        width: 166
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2772eb557b46a380800000000000000
+      internalID: -8960391441182197969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_4
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 648
+        width: 170
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e14fde53aa7f640800000000000000
+      internalID: 5113743050504674879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_5
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 648
+        width: 171
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f924ba39be74ea0800000000000000
+      internalID: -5888478968297644275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_6
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 648
+        width: 176
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea4a59deb7211e0800000000000000
+      internalID: -2228582605246910738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_7
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 648
+        width: 181
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0e88586c89a2e40800000000000000
+      internalID: 5632482262391513315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_8
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 648
+        width: 185
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d82e488311d4d90800000000000000
+      internalID: -7112009302102864599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_9
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 648
+        width: 189
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725b2214dfe40a7d0800000000000000
+      internalID: -2909238509654854361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_10
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 648
+        width: 193
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afcd52077ea90e70800000000000000
+      internalID: 9081981949733359527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_11
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 648
+        width: 198
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794a148f9aa95bed0800000000000000
+      internalID: -2398841171699719017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 327
+        width: 199
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fdcb2fab48ea6f0800000000000000
+      internalID: -671453355960377469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 327
+        width: 205
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906e0270f5d92bd40800000000000000
+      internalID: 5598710318241998345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_14
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 327
+        width: 208
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263e5b7b95945c960800000000000000
+      internalID: 7621578594077500258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_15
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 327
+        width: 211
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5821e2cd2175000800000000000000
+      internalID: 24509059848897972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_16
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 327
+        width: 209
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bbba54c5089a430800000000000000
+      internalID: 3794705294830582671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_17
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 327
+        width: 203
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b11da6b16e03ee20800000000000000
+      internalID: 3378559958297416121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_18
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 327
+        width: 202
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f1cfc004f294f40800000000000000
+      internalID: 5713149554438446939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_19
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 327
+        width: 196
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d02ce49b4a2b120800000000000000
+      internalID: 2428184264903363875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_20
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 327
+        width: 190
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00af22adf0036cc50800000000000000
+      internalID: 6685083541520448000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_21
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 327
+        width: 187
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f528fc5ba2f13c420800000000000000
+      internalID: 2648995274123346527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_22
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 327
+        width: 183
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bc0ca2703834ef0800000000000000
+      internalID: -125112297830954175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_23
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 327
+        width: 177
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d10e4f7088c9f2b0800000000000000
+      internalID: -5550184611540237870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 173
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a439bb96e1ae02460800000000000000
+      internalID: 7215024019391353674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_25
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 8
+        width: 169
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a8dfac0bb5e6820800000000000000
+      internalID: 2913366823833275025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_26
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 8
+        width: 166
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57400866f1a846340800000000000000
+      internalID: 4856158165680522357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_27
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 8
+        width: 164
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5307bfb66023b180800000000000000
+      internalID: -9100894796310445217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_28
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 8
+        width: 160
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b389cc612bae9730800000000000000
+      internalID: 4007828878453736370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snare drum_29
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 8
+        width: 157
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc822f675fe8a910800000000000000
+      internalID: 1848990805841317116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
