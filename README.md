@@ -37,6 +37,5 @@ If you wish to contribute to Music Girl, follow these steps:
 
 ## License
 
-Specify the license for your project. For example:
 This project is licensed under the [MIT License](link_to_license).
 
