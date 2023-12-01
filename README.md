@@ -25,10 +25,6 @@ If you want only try this game you can download in [itch.io](https://tradocks.it
 2. Open the project in Unity.
 3. Build and Run
 
-## How to Play
-
-Provide instructions here on how to play the game, including controls, objectives, and any special features or mechanics.
-
 ## Contributing
 
 If you wish to contribute to Music Girl, follow these steps:
